@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">responsi060</string>
+    <string-array name="sp_agama">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katholik</item>
+        <item>Hindu</item>
+        <item>Buddhist</item>
+        <item>Konghucu</item>
+        <item>Yahudi</item>
+    </string-array>
+</resources>
